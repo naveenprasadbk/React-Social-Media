@@ -30,10 +30,10 @@ Scroll is a simple and clean blog application built using **React** and **CSS**,
 
 ## 📸 Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](img/1.png)
+![alt text](img/2.png)
+![alt text](img/3.png)
+![alt text](img/4.png)
 
 ---
 
